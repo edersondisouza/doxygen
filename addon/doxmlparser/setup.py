@@ -11,7 +11,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='doxmlparser',
-    version='0.1',
+    version='0.1.1',
     description='Python API to access doxygen generated XML output',
     long_description=readme,
     author='Dimitri van Heesch',
